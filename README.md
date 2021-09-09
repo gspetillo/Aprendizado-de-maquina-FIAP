@@ -33,10 +33,10 @@ Nas celulas **Responda** significa que é nessário uma resposta clara e objetiv
 
 Este projeto poderá ser feito por grupos de `até 2 alunos`.
 
-| Nome dos Integrantes     | RM             | Turma   |
-| :----------------------- | :------------- | :-----: |
-| Integrante 1             | RM             |         |
-| Integrante 2             | RM             |         |
+| Nome dos Integrantes             | RM             | Turma   |
+| :------------------------------- | :------------- | :-----: |
+| Gabriel Siqueira Petillo         | RM 81238       |  4SIA   |
+| Jean Jacques Nascimento Barros   | RM 81524       |  4SIA   |
 
 ### Data de entrega final
 
